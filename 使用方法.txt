@@ -1,0 +1,9 @@
+先复制代码，创建workers
+再下载zip文件，创建pages。上传。
+部署完成之后添加环境变量UUID
+再次上传项目
+找到workers项目
+添加变量UUID
+添加HOST变量就是pages.dev项目地址
+
+最后用https://v1.v2rayse.com/v2ray-clash/ 转clash节点
